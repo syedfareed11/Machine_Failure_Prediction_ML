@@ -1,2 +1,3 @@
-## Introduction
+## Summary
 The project involved creating visualizations, such as heatmaps and scatter plots, to illustrate the relationships between machine properties like Torque, Rotational Speed, and the Target Variable. K-Fold Cross Validation was employed to obtain a more generalized value of performance metrics. To optimize model performance, grid search was used for hyperparameter tuning, varying different parameters of various models. The performance of each model was judged by plotting ROC-AUC curves. Additionally, metrics such as accuracy, precision, recall, and F1 score were calculated and compared to evaluate the overall performance of each model.
+
